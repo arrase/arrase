@@ -12,7 +12,7 @@
   <g transform="translate(23, 19) scale(0.75)"><rect x="6" y="6" width="12" height="12" rx="2" fill="none" stroke="#4f46e5" stroke-width="1.8"/><rect x="9" y="9" width="6" height="6" rx="1" fill="none" stroke="#4f46e5" stroke-width="1.5"/><path d="M9 2v4M15 2v4M9 18v4M15 18v4M2 9h4M2 15h4M18 9h4M18 15h4" stroke="#4f46e5" stroke-width="1.8" stroke-linecap="round"/></g>
   <text x="56" y="33" fill="#18181b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="14.5" font-weight="650" letter-spacing="-0.2">Raspiducky</text>
   <rect x="385" y="17" width="57" height="21" rx="10.5" fill="rgba(79, 70, 229, 0.04)" stroke="#e4e4e7" stroke-width="1"/>
-  <text x="413.5" y="31" text-anchor="middle" fill="#52525b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="10.5" font-weight="500">Docs →</text>
+  <text x="413.5" y="31" text-anchor="middle" fill="#52525b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="10.5" font-weight="500">Repo →</text>
   <text x="18" y="62.0" fill="#52525b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="11.5">A modern, high-performance USB Gadget and DuckyScript/HIDScript</text>
   <text x="18" y="78.5" fill="#52525b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="11.5">execution appliance for Raspberry Pi, with zero-reboot ConfigFS support,</text>
   <text x="18" y="95.0" fill="#52525b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="11.5">dual scripting engines (JS &amp; DuckyScript), and embedded web UI.</text>
